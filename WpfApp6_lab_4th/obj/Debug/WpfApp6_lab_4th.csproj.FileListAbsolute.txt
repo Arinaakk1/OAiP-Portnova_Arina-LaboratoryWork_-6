@@ -1,0 +1,15 @@
+C:\Users\Арина\source\repos\WpfApp6_lab_4th\bin\Debug\WpfApp6_lab_4th.exe.config
+C:\Users\Арина\source\repos\WpfApp6_lab_4th\bin\Debug\WpfApp6_lab_4th.exe
+C:\Users\Арина\source\repos\WpfApp6_lab_4th\bin\Debug\WpfApp6_lab_4th.pdb
+C:\Users\Арина\source\repos\WpfApp6_lab_4th\obj\Debug\WpfApp6_lab_4th.csproj.AssemblyReference.cache
+C:\Users\Арина\source\repos\WpfApp6_lab_4th\obj\Debug\MainWindow.g.cs
+C:\Users\Арина\source\repos\WpfApp6_lab_4th\obj\Debug\App.g.cs
+C:\Users\Арина\source\repos\WpfApp6_lab_4th\obj\Debug\WpfApp6_lab_4th_MarkupCompile.cache
+C:\Users\Арина\source\repos\WpfApp6_lab_4th\obj\Debug\WpfApp6_lab_4th_MarkupCompile.lref
+C:\Users\Арина\source\repos\WpfApp6_lab_4th\obj\Debug\MainWindow.baml
+C:\Users\Арина\source\repos\WpfApp6_lab_4th\obj\Debug\WpfApp6_lab_4th.g.resources
+C:\Users\Арина\source\repos\WpfApp6_lab_4th\obj\Debug\WpfApp6_lab_4th.Properties.Resources.resources
+C:\Users\Арина\source\repos\WpfApp6_lab_4th\obj\Debug\WpfApp6_lab_4th.csproj.GenerateResource.cache
+C:\Users\Арина\source\repos\WpfApp6_lab_4th\obj\Debug\WpfApp6_lab_4th.csproj.CoreCompileInputs.cache
+C:\Users\Арина\source\repos\WpfApp6_lab_4th\obj\Debug\WpfApp6_lab_4th.exe
+C:\Users\Арина\source\repos\WpfApp6_lab_4th\obj\Debug\WpfApp6_lab_4th.pdb

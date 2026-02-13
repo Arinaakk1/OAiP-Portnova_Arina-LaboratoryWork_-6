@@ -1,0 +1,30 @@
+C:\Users\Арина\source\repos\WpfApp6_lab_3d\bin\Debug\WpfApp6_lab_3d.exe.config
+C:\Users\Арина\source\repos\WpfApp6_lab_3d\bin\Debug\WpfApp6_lab_3d.exe
+C:\Users\Арина\source\repos\WpfApp6_lab_3d\bin\Debug\WpfApp6_lab_3d.pdb
+C:\Users\Арина\source\repos\WpfApp6_lab_3d\obj\Debug\WpfApp6_lab_3d.csproj.AssemblyReference.cache
+C:\Users\Арина\source\repos\WpfApp6_lab_3d\obj\Debug\MainWindow.g.cs
+C:\Users\Арина\source\repos\WpfApp6_lab_3d\obj\Debug\App.g.cs
+C:\Users\Арина\source\repos\WpfApp6_lab_3d\obj\Debug\WpfApp6_lab_3d_MarkupCompile.cache
+C:\Users\Арина\source\repos\WpfApp6_lab_3d\obj\Debug\WpfApp6_lab_3d_MarkupCompile.lref
+C:\Users\Арина\source\repos\WpfApp6_lab_3d\obj\Debug\MainWindow.baml
+C:\Users\Арина\source\repos\WpfApp6_lab_3d\obj\Debug\WpfApp6_lab_3d.g.resources
+C:\Users\Арина\source\repos\WpfApp6_lab_3d\obj\Debug\WpfApp6_lab_3d.Properties.Resources.resources
+C:\Users\Арина\source\repos\WpfApp6_lab_3d\obj\Debug\WpfApp6_lab_3d.csproj.GenerateResource.cache
+C:\Users\Арина\source\repos\WpfApp6_lab_3d\obj\Debug\WpfApp6_lab_3d.csproj.CoreCompileInputs.cache
+C:\Users\Арина\source\repos\WpfApp6_lab_3d\obj\Debug\WpfApp6_lab_3d.exe
+C:\Users\Арина\source\repos\WpfApp6_lab_3d\obj\Debug\WpfApp6_lab_3d.pdb
+C:\Users\Арина\Desktop\Лабы ОАИП\OAIP_6_lab_arina\WpfApp6_lab_3d\bin\Debug\WpfApp6_lab_3d.exe.config
+C:\Users\Арина\Desktop\Лабы ОАИП\OAIP_6_lab_arina\WpfApp6_lab_3d\bin\Debug\WpfApp6_lab_3d.exe
+C:\Users\Арина\Desktop\Лабы ОАИП\OAIP_6_lab_arina\WpfApp6_lab_3d\bin\Debug\WpfApp6_lab_3d.pdb
+C:\Users\Арина\Desktop\Лабы ОАИП\OAIP_6_lab_arina\WpfApp6_lab_3d\obj\Debug\WpfApp6_lab_3d.csproj.AssemblyReference.cache
+C:\Users\Арина\Desktop\Лабы ОАИП\OAIP_6_lab_arina\WpfApp6_lab_3d\obj\Debug\MainWindow.g.cs
+C:\Users\Арина\Desktop\Лабы ОАИП\OAIP_6_lab_arina\WpfApp6_lab_3d\obj\Debug\App.g.cs
+C:\Users\Арина\Desktop\Лабы ОАИП\OAIP_6_lab_arina\WpfApp6_lab_3d\obj\Debug\WpfApp6_lab_3d_MarkupCompile.cache
+C:\Users\Арина\Desktop\Лабы ОАИП\OAIP_6_lab_arina\WpfApp6_lab_3d\obj\Debug\WpfApp6_lab_3d_MarkupCompile.lref
+C:\Users\Арина\Desktop\Лабы ОАИП\OAIP_6_lab_arina\WpfApp6_lab_3d\obj\Debug\MainWindow.baml
+C:\Users\Арина\Desktop\Лабы ОАИП\OAIP_6_lab_arina\WpfApp6_lab_3d\obj\Debug\WpfApp6_lab_3d.g.resources
+C:\Users\Арина\Desktop\Лабы ОАИП\OAIP_6_lab_arina\WpfApp6_lab_3d\obj\Debug\WpfApp6_lab_3d.Properties.Resources.resources
+C:\Users\Арина\Desktop\Лабы ОАИП\OAIP_6_lab_arina\WpfApp6_lab_3d\obj\Debug\WpfApp6_lab_3d.csproj.GenerateResource.cache
+C:\Users\Арина\Desktop\Лабы ОАИП\OAIP_6_lab_arina\WpfApp6_lab_3d\obj\Debug\WpfApp6_lab_3d.csproj.CoreCompileInputs.cache
+C:\Users\Арина\Desktop\Лабы ОАИП\OAIP_6_lab_arina\WpfApp6_lab_3d\obj\Debug\WpfApp6_lab_3d.exe
+C:\Users\Арина\Desktop\Лабы ОАИП\OAIP_6_lab_arina\WpfApp6_lab_3d\obj\Debug\WpfApp6_lab_3d.pdb

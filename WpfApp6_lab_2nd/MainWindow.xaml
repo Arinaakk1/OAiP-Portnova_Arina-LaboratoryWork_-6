@@ -1,0 +1,23 @@
+﻿<Window x:Class="WpfApp6_task2nd.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp6_task2nd"
+        mc:Ignorable="d"
+         Title="Сумма ряда" Height="200" Width="400">
+    <Grid Margin="10">
+        <StackPanel>
+            <TextBlock Text="∑ 1/(2a)^2 от a=3 до 103"  
+                       HorizontalAlignment="Center"/>
+            <Button x:Name="CalculateButton" 
+                    Content="Вычислить" 
+                    Click="CalculateButton_Click" 
+                    Margin="0,10"
+                    Padding="10,5"/>
+            <TextBlock x:Name="ResultTextBlock" 
+                       Text="Результат: " 
+                       HorizontalAlignment="Center"/>
+        </StackPanel>
+    </Grid>
+</Window>

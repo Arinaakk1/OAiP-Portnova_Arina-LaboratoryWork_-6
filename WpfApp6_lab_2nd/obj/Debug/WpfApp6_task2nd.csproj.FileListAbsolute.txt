@@ -1,0 +1,15 @@
+C:\Users\Арина\source\repos\WpfApp6_task2nd\bin\Debug\WpfApp6_task2nd.exe.config
+C:\Users\Арина\source\repos\WpfApp6_task2nd\bin\Debug\WpfApp6_task2nd.exe
+C:\Users\Арина\source\repos\WpfApp6_task2nd\bin\Debug\WpfApp6_task2nd.pdb
+C:\Users\Арина\source\repos\WpfApp6_task2nd\obj\Debug\WpfApp6_task2nd.csproj.AssemblyReference.cache
+C:\Users\Арина\source\repos\WpfApp6_task2nd\obj\Debug\MainWindow.g.cs
+C:\Users\Арина\source\repos\WpfApp6_task2nd\obj\Debug\App.g.cs
+C:\Users\Арина\source\repos\WpfApp6_task2nd\obj\Debug\WpfApp6_task2nd_MarkupCompile.cache
+C:\Users\Арина\source\repos\WpfApp6_task2nd\obj\Debug\WpfApp6_task2nd_MarkupCompile.lref
+C:\Users\Арина\source\repos\WpfApp6_task2nd\obj\Debug\MainWindow.baml
+C:\Users\Арина\source\repos\WpfApp6_task2nd\obj\Debug\WpfApp6_task2nd.g.resources
+C:\Users\Арина\source\repos\WpfApp6_task2nd\obj\Debug\WpfApp6_task2nd.Properties.Resources.resources
+C:\Users\Арина\source\repos\WpfApp6_task2nd\obj\Debug\WpfApp6_task2nd.csproj.GenerateResource.cache
+C:\Users\Арина\source\repos\WpfApp6_task2nd\obj\Debug\WpfApp6_task2nd.csproj.CoreCompileInputs.cache
+C:\Users\Арина\source\repos\WpfApp6_task2nd\obj\Debug\WpfApp6_task2nd.exe
+C:\Users\Арина\source\repos\WpfApp6_task2nd\obj\Debug\WpfApp6_task2nd.pdb
